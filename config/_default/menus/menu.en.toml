@@ -11,7 +11,7 @@
 [[main]]
   parent = "Projects"
   name = "Digital Bike Speedometer"
-  url = ""
+  url = "projects/bike_speedometer/"
 
 [[main]]
   name = "Reading List"
