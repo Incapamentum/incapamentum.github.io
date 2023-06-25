@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Reading List"
-  url = "" # Make sure to populate this
+  url = "reading_list/"
   weight = -108
 
 [[main]]
