@@ -8,24 +8,39 @@
   url = "post/rich-content/"
   weight = -109
 
-# Submenus are done this way: parent -> identifier
 [[main]]
-  name = "Links"
-  identifier = "Links"
+  name = "Projects"
+  identifier = "Projects"
   weight = -108
+# Add any projects you'd like to list under here
 [[main]]
-  parent = "Links"
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/"
+  parent = "Projects"
+  name = "Digital Bike Speedometer"
+  url = ""
+
 [[main]]
-  parent = "Links"
-  name = "Twitter"
-  url = "https://twitter.com/"
+  name = "Reading List"
+  url = "" # Make sure to populate this
+  weight = -107
+
+# Submenus are done this way: parent -> identifier
+#[[main]]
+#  name = "Links"
+#  identifier = "Links"
+#  weight = -108
+#[[main]]
+#  parent = "Links"
+#  name = "LinkedIn"
+#  url = "https://www.linkedin.com/"
+#[[main]]
+#  parent = "Links"
+#  name = "Twitter"
+#  url = "https://twitter.com/"
 
 [[main]]
   name = "About"
   url = "about/"
-  weight = -107
+  weight = -106
 
 # social menu links
 
@@ -33,19 +48,19 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/#"
-[[social]]
-  name = "twitter"
-  weight = 2
-  url = "https://twitter.com/#"
+  url = "https://github.com/Incapamentum/"
+#[[social]]
+#  name = "twitter"
+#  weight = 2
+#  url = "https://twitter.com/#"
 [[social]]
   name = "linkedin"
-  weight = 3
-  url = "https://www.linkedin.com/in/#"
-[[social]]
-  name = "rss"
-  weight = 4
-  url = "index.xml"
+  weight = 2
+  url = "https://www.linkedin.com/in/diazg-gustavoa/"
+#[[social]]
+#  name = "rss"
+#  weight = 4
+#  url = "index.xml"
 
 # other supported social links
 # name = "youtube"
