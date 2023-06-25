@@ -4,14 +4,9 @@
   weight = -110
 
 [[main]]
-  name = "Archives"
-  url = "post/rich-content/"
-  weight = -109
-
-[[main]]
   name = "Projects"
   identifier = "Projects"
-  weight = -108
+  weight = -109
 # Add any projects you'd like to list under here
 [[main]]
   parent = "Projects"
@@ -21,21 +16,12 @@
 [[main]]
   name = "Reading List"
   url = "" # Make sure to populate this
-  weight = -107
+  weight = -108
 
-# Submenus are done this way: parent -> identifier
-#[[main]]
-#  name = "Links"
-#  identifier = "Links"
-#  weight = -108
-#[[main]]
-#  parent = "Links"
-#  name = "LinkedIn"
-#  url = "https://www.linkedin.com/"
-#[[main]]
-#  parent = "Links"
-#  name = "Twitter"
-#  url = "https://twitter.com/"
+[[main]]
+  name = "Archives"
+  url = "post/rich-content/"
+  weight = -107
 
 [[main]]
   name = "About"
@@ -75,3 +61,17 @@
 # url = "https://gitlab.com/#"
 # name = "discord"
 # url = "https://discord.gg/#"
+
+# Submenus are done this way: parent -> identifier
+#[[main]]
+#  name = "Links"
+#  identifier = "Links"
+#  weight = -108
+#[[main]]
+#  parent = "Links"
+#  name = "LinkedIn"
+#  url = "https://www.linkedin.com/"
+#[[main]]
+#  parent = "Links"
+#  name = "Twitter"
+#  url = "https://twitter.com/"
