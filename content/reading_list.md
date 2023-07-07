@@ -6,9 +6,7 @@ aliases = ["book-list", "reading"]
 author = "Gustavo Diaz Galeas"
 +++
 
-Growing up, reading was my escape from a world filled with bullying (and a ton of insecurities). It allowed me to explore different ideas, thoughts, and concepts. And above all, it served as a way to develop myself.
-
-As time went on, however, I've fallen out of that habit. I'm seeking to at the very least establish some routine in reading books, and figured maintaining a reading list would be one way of doing so.
+Growing up, reading was my escape from a world filled with bullying (and a ton of insecurities). It allowed me to explore different ideas, thoughts, and concepts. And above all, it served as a way to develop myself. Once I had started college, however, that habit slowly faded away due to my focus and attention being on academics and other activities. That's not to say that I don't just get into a flurry of book reading, such as when the COVID-19 pandemic caused stay-at-home orders for the majority of 2020, I had read the entirety of Tad Williams' _Memory, Sorrow, and Thorn_ trilogy in a mere two months. At the very least, I'm seeking to establish some routine in reading books, and figured that maintaining a reading list would be one way of doing so.
 
 As such, this will be a living reading list: I'll keep adding to it and possibly reorder, but won't necessarily delete any books unless they (or the author) turn out to be irrevocably unredeemable due to their actions, thoughts, or beliefs.
 
