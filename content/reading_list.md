@@ -22,6 +22,8 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _Stone of Farewell_ by Tad Williams
 - _To Green Angel Tower_ by Tad Williams
 - _East of Eden_ by John Steinbeck
+- _The Night Ocean_ by Paul La Farge
+- _Alias Grace_ by Margaret Atwood
 
 ## Books I am Currently Reading
 
