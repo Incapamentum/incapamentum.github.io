@@ -18,15 +18,15 @@
   url = "reading_list/"
   weight = -108
 
-[[main]]
-  name = "Archives"
-  url = "post/rich-content/"
-  weight = -107
+# [[main]]
+#   name = "Archives"
+#   url = "post/rich-content/"
+#   weight = -107
 
 [[main]]
   name = "About"
   url = "about/"
-  weight = -106
+  weight = -107
 
 # social menu links
 
