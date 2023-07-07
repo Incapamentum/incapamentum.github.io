@@ -14,9 +14,21 @@
   url = "projects/bike_speedometer/"
 
 [[main]]
-  name = "Reading List"
-  url = "reading_list/"
+  name = "Hobbies"
+  identifier = "Hobbies"
   weight = -108
+[[main]]
+  parent = "Hobbies"
+  name = "Reading List"
+  url = "hobbies/reading/"
+[[main]]
+  parent = "Hobbies"
+  name = "Gaming"
+  url = "hobbies/gaming/"
+[[main]]
+  parent = "Hobbies"
+  name = "Health & Fitness"
+  url = "hobbies/health_fitness/"
 
 # [[main]]
 #   name = "Archives"
