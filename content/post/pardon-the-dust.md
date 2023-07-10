@@ -1,7 +1,7 @@
 +++
 author = "Gustavo Diaz Galeas"
 title = "Pardon the Dust"
-date = "2023-07-09"
+date = "2023-07-10"
 description = "Blog introduction"
 +++
 
