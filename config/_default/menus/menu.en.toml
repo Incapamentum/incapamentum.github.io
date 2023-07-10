@@ -12,6 +12,10 @@
   parent = "Projects"
   name = "Digital Bike Speedometer"
   url = "projects/bike_speedometer/"
+[[main]]
+  parent = "Projects"
+  name = "Exalted Sage"
+  url = "projects/exalted-sage/"
 
 [[main]]
   name = "Hobbies"
