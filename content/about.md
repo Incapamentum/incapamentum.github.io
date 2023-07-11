@@ -6,7 +6,7 @@ aliases = ["about", "contact"]
 author = "Gustavo Diaz Galeas"
 +++
 
-Greetings, and welcome to my own little corner of the internet! I'm Gustavo, a self-proclaimed nerd and geek with an insatiable curiosity that drives me to want to know a little bit more every day in various different areas. I hold a Bachelors and Masters degree in Computer Engineering, with the focus on the latter being in computer systems and architectures.
+Greetings, and welcome to my own little corner of the internet! I'm Gustavo, a self-proclaimed nerd and geek with an insatiable curiosity that drives me to want to know a little bit more every day in various different areas. I hold a Bachelors and Masters degree in Computer Engineering, with the latter being a specialization in computer systems and architectures.
 
 The purpose of this blog is to serve as a kind of playground to get myself motivated on pursuing a more varied array of different projects, and to pass down any insights and lessons learned along the way. In short, it's a way for me to document my journey, my progress, and to be able to contribute to an already-expansive pool of knowledge that's available on the internet.
 
