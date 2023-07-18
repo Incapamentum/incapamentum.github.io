@@ -4,7 +4,8 @@ author = "Gustavo Diaz Galeas"
 date = "2023-07-16"
 description = "Testing out page bundles"
 
-series = ["DevOps"]
+series = ["Exalted Sage"]
+tags = ["DevOps"]
 +++
 
 Peepee poopoo
