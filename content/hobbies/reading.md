@@ -1,7 +1,7 @@
 +++
 title = "Reading List"
 description = "See what books I have read, which ones I'm currently reading, and my current backlog of books!"
-date = "2023-07-09"
+date = "2023-07-10"
 aliases = ["book-list", "reading"]
 author = "Gustavo Diaz Galeas"
 +++
