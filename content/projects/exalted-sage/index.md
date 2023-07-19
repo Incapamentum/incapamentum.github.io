@@ -11,8 +11,7 @@ categories:
 tags:
     - DevOps
     - software engineering
-series:
-    - Exalted Sage
+series: Exalted Sage
 ---
 
 According to the official Guild Wars 2 wiki, [Exalted Sages](https://wiki.guildwars2.com/wiki/Exalted_Sage) are "spellcasters found in Auric Basin. They focus and direct the vast quantities of magic which their city, Tarir, requires to keep functioning".
