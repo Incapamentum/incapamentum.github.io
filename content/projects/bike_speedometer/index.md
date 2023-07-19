@@ -7,9 +7,8 @@ author: "Gustavo Diaz Galeas"
 categories:
     - projects
 tags:
-    - embedded
-series:
-    - Embedded Systems Engineering
+    - embedded systems development
+series: Bike Speedometer
 ---
 
 Sample
