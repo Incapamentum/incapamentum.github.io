@@ -22,10 +22,11 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _East of Eden_ by John Steinbeck
 - _The Night Ocean_ by Paul La Farge
 - _Alias Grace_ by Margaret Atwood
+- _The Alchemist_ by Paolo Coelho
 
 ## Books I am Currently Reading
 
-- _The Alchemist_ by Paolo Coelho
+- _Brothers of the Wind_ by Tad Williams
 
 ## A Non-Exhaustive Book Backlog in No Particular Order
 
