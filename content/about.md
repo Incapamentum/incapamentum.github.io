@@ -10,7 +10,7 @@ Greetings, and welcome to my own little corner of the internet! I'm Gustavo, a s
 
 The purpose of this blog is to serve as a kind of playground to get myself motivated on pursuing a more varied array of different projects, and to pass down any insights and lessons learned along the way. In short, it's a way for me to document my journey, my progress, and to be able to contribute to an already-expansive pool of knowledge that's available on the internet.
 
-When I am not hopelessly spending upwards of five hours working on a solution which probably could have taken an hours worth of work, I'm often immersed in a book. I'm a lifelong fan of anything fantasy, from high to dark, and sci-fi, just to name a few. In recent years, this has expanded into the realm of nonfiction and philosophy. If you're interested, I actually keep track of a reading list right here, so feel free to check it out and see what we may have in common!
+When I am not hopelessly spending upwards of five hours working on a solution which probably could have taken about an hour of work, I'm often immersed in a book. I'm a lifelong fan of anything fantasy, from high to dark, and sci-fi, just to name a few. In recent years, this has expanded into the realm of nonfiction and philosophy. If you're interested, I actually keep track of a reading list right [here](/hobbies/reading/), so feel free to check it out and see what we may have in common!
 
 Ultimately, regardless if it's sharing my passion for STEM or discussing the nuances of character actions from a novel, I do hope to be able to develop genuine connections with others, so please don't hesitate to reach out if you have any questions or thoughts!
 
