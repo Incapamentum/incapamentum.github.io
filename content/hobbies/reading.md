@@ -27,6 +27,7 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 ## Books I am Currently Reading
 
 - _Brothers of the Wind_ by Tad Williams
+- _Tomorrow, and Tomorrow, and Tomorrow_ by Gabrielle Zevin
 
 ## A Non-Exhaustive Book Backlog in No Particular Order
 
