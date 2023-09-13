@@ -10,6 +10,10 @@ Growing up, reading was my escape from a world filled with bullying (and a ton o
 
 As such, this will be a living reading list: I'll keep adding to it and possibly reorder, but won't necessarily delete any books unless they (or the author) turn out to be irrevocably unredeemable due to their actions, thoughts, or beliefs.
 
+## Books I am Currently Reading
+
+- _Tomorrow, and Tomorrow, and Tomorrow_ by Gabrielle Zevin
+
 ## Books I've Read
 
 - _Eragon_ by Christopher Paolini
@@ -23,11 +27,7 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _The Night Ocean_ by Paul La Farge
 - _Alias Grace_ by Margaret Atwood
 - _The Alchemist_ by Paolo Coelho
-
-## Books I am Currently Reading
-
 - _Brothers of the Wind_ by Tad Williams
-- _Tomorrow, and Tomorrow, and Tomorrow_ by Gabrielle Zevin
 
 ## A Non-Exhaustive Book Backlog in No Particular Order
 
