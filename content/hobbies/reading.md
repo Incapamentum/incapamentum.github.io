@@ -36,3 +36,8 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _Empire of Grass_ by Tad Wiliams
 - _Into the Narrowdark_ by Tad Williams
 - _The Navigator's Children_ by Tad Williams
+- _The Hobbit_ by J.R.R. Tolkien
+- _The Things They Carried_ by Tim O'Brien
+- _Sapiens: A Brief History of Humankind_ by Yuval Noah Harari
+- _Homo Deus: A Brief History of Tomorrow_ by Yuval Noah Harari
+- _La Guerra del Pacifico_ by Rafael Mellafe Mauricio Pelayo
