@@ -12,7 +12,7 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 
 ## Books I am Currently Reading
 
-- _Tomorrow, and Tomorrow, and Tomorrow_ by Gabrielle Zevin
+- _The Heart of What Was Lost_ by Tad Williams
 
 ## Books I've Read
 
@@ -28,10 +28,10 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _Alias Grace_ by Margaret Atwood
 - _The Alchemist_ by Paolo Coelho
 - _Brothers of the Wind_ by Tad Williams
+- _Tomorrow, and Tomorrow, and Tomorrow_ by Gabrielle Zevin
 
 ## A Non-Exhaustive Book Backlog in No Particular Order
 
-- _The Heart of What Was Lost_ by Tad Williams
 - _The Witchwood Crown_ by Tad Williams
 - _Empire of Grass_ by Tad Wiliams
 - _Into the Narrowdark_ by Tad Williams
@@ -41,3 +41,4 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _Sapiens: A Brief History of Humankind_ by Yuval Noah Harari
 - _Homo Deus: A Brief History of Tomorrow_ by Yuval Noah Harari
 - _La Guerra del Pacifico_ by Rafael Mellafe Mauricio Pelayo
+- _Be Water, My Friend: The Teachings of Bruce Lee_ by Shannon Lee
