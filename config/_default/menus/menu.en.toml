@@ -8,10 +8,10 @@
   identifier = "Projects"
   weight = -109
 # Add any projects you'd like to list under here
-[[main]]
-  parent = "Projects"
-  name = "Digital Bike Speedometer"
-  url = "projects/bike_speedometer/"
+#[[main]]
+#  parent = "Projects"
+#  name = "Digital Bike Speedometer"
+#  url = "projects/bike_speedometer/"
 [[main]]
   parent = "Projects"
   name = "Exalted Sage"
@@ -25,14 +25,14 @@
   parent = "Hobbies"
   name = "Reading List"
   url = "hobbies/reading/"
-[[main]]
-  parent = "Hobbies"
-  name = "Gaming"
-  url = "hobbies/gaming/"
-[[main]]
-  parent = "Hobbies"
-  name = "Health & Fitness"
-  url = "hobbies/health_fitness/"
+#[[main]]
+#  parent = "Hobbies"
+#  name = "Gaming"
+#  url = "hobbies/gaming/"
+#[[main]]
+#  parent = "Hobbies"
+#  name = "Health & Fitness"
+#  url = "hobbies/health_fitness/"
 
 # [[main]]
 #   name = "Archives"
