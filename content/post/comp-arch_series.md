@@ -1,23 +1,23 @@
 +++
 author = "Gustavo Diaz Galeas"
-title = "Computer Architecture Series"
+title = "Series Introduction: Computer Architecture Fundamentals"
 date = "2023-11-06"
-description = "An initial series of posts specific to computer architecture."
+description = "Kick-off post regarding a post series focusing on computer architecture."
 featureImage = "/images/arch/comparch-ai.png"
 series = ["Computer Architecture"]
 +++
 
-Ever since my last post, I've been struggling with ideas on what to write about. All things considered, my overall options are somewhat limitless due to the nature of technology. So in the end, there shouldn't be _that_ much of an excuse to just pick a topic and write about, right?
+Ever since my last post, I've been struggling with ideas on what to write about. All things considered, my options are somewhat limitless due to the nature of technology. So in the end, there shouldn't be _that_ much of an excuse to pick a topic and write about, right?
 
-Turns out: it kind of can be. You see, I could come up with a series of disjointed posts that are all related simply by being part of technology. However, it lacks a cohesive purpose. Am I simply writing for the post of pushing out posts, or writing for the sake of providing solid and concise information?
+Turns out: it kind of can be. You see, I could come up with a series of disjointed posts that are all related by being part of technology. Yet, it lacks a cohesive purpose. The question on whether I'm writing for the sake of pushing out posts, or for providing solid and concise information soon arose.
 
-The above question has been sitting on the back burner for a bit, as I've recently decided to switch gears in my professional life. My undergrad studies focused more on the systems-level stuff: a healthy dose of circuit theory, sprinkled with the core sequence of data structures & algorithms, with the rest being on how a computer works. In no way did I ever learn much about tools used in binary analysis, which has some effective use cases depending on the context. One weekend, I attempted to learn about `objdump` and how to read the output. After a lot of trial and error, and finally getting it to spit out the main section of code, I had realized that my knowledge of x86 assembly was non-existent. Naturally, this led me to try and learn it, but yet another roadblock appeared: my knowledge in architecture had dulled! This took me for a surprise, namely in that it hasn't even been a full year since I had completed my Master's. I then realized the opportunity I had available before me: to relearn the core fundamentals of computer architecture and take it as an opportunity to also develop posts around it!
+At the time, I didn't put much thought into answering the question as I've been at a crossroads in my career. Whenever this happens, I often try to learn new skills that will help me out. My current role is that of an embedded systems engineer. The work entails integrating different sensors with embedded Linux devices. Depending on the project, this may also involve forming an IoT network.
 
-Admittedly, this took me by suprise: it hasn't even been a full year since I had completed my Master's! However, as luck would have it, this roadblock came with an opportunity for me to not only review the core fundamentals of computer architecture, but that a series of posts discussing them would be a good starting point for me to start posting regularly.
+Seeking to learn something new, I decided to learn about the `objdump` utility. It is a command-line program used in displaying various information about object files. It is often used as a disassembler to view the assembly that makes up a binary executable. After a lot of trial and error, and finally getting the utility to spit out the main section of assembly, I had realized that it was all x86. As mentioned before, I work with embedded Linux devices that run on Arm Cortex-M, so my knowledge of x86 was nil. Even worse, when I had tried to learn more about it, I realized that my knowledge in architecture had dulled! This took me for a surprise, as it hasn't even been a full year since the completion of my Master's degree. As fortune would have it, this was an opportunity in disguise: as I reviewed the core fundamentals of computer architecture, I could compile my notes into a post series!
 
-Currently, I don't plan on having a set schedule to post as I'd like so as to not be under too much pressure of trying to meet a deadline, but can at least make sure to be consistent about the posting. Currently, my plan is to start discussing **instruction set architectures**, as I feel that this is the most fundamental building block of computer architecture.
+I currently do not plan on having a set post schedule to adhere to. This is mainly to avoid feeling the pressure of trying to meet a deadline and push out something subpar. But, I can promise that posting will be at least somewhat consistent.
 
-Finally, I want to mention that I am super excited to finally have some solid motivation on pursuing additional posts, and looking forward to seeing where it takes me!
+Currently, the idea is to begin with a three-part post that discusses **instruction set architectures** (ISA). This is due to the fact that ISAs are the interface between the hardware and any software written for it, thus proving to be the most fundamental building block of computer architecture.
 
 ## AI Disclaimer
 
