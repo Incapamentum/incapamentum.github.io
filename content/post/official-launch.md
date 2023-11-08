@@ -2,7 +2,9 @@
 author = "Gustavo Diaz Galeas"
 title = "GooseBytes"
 date = "2023-09-11"
-description = "Official launch"
+description = "Official launch."
+thumbnail = "/images/GB-logo.png"
+featureImage = "/images/GB-banner.png"
 +++
 
 This update is a bit delayed, as the majority of the changes occurred in the span of two days in mid-August. And yet, as befitting of my busy and somewhat chaotic personal schedule, I am finally getting around to making a post about it.
