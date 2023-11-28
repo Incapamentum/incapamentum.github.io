@@ -1,7 +1,7 @@
 +++
 author = "Gustavo Diaz Galeas"
 title = "Instruction Set Architecture: Part 1"
-date = "2023-11-17"
+date = "2023-11-27"
 description = "What the hell is an ISA, anyways?"
 thumbnail = "/images/arch/alu.svg"
 featureImage = "/images/arch/isapt1_banner.png"
@@ -14,7 +14,13 @@ The ISA defines many things, including but not limited to program state, semanti
 
 ## Defining Some Key Terminology
 
-Peepee
+Define the following:
+
+- ALU
+- Accumulator
+- Stack(?)
+- Memory
+- Registers
 
 ## Classification of ISAs
 
