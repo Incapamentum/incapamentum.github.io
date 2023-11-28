@@ -24,9 +24,9 @@ The major choices for internal storage are a **stack**, an **accumulator**, or a
 
 ### Stack Architecture
 
-![Stack Architecture](/images/arch/stack_arch.svg)
-
 As the name implies, this type of architecture makes use of a stack for its internal storage. As such, two instructions that are supported by default are `push` and `pop`, and they take one operand each: a memory address.
+
+![Stack Architecture](/images/arch/stack_arch.svg)
 
 Arithmetic operations, such as addition and subtraction, are also supported. These types of instructions do not take any operands, as they end up popping the top two entries on the stack, perform the operation, then push the result to the top.
 
@@ -41,9 +41,9 @@ pop C
 
 ### Accumulator Architecture
 
-![Accumulator Architecture](/images/arch/acc_arch.svg)
-
 An accumulator is what it sounds like: it is a special type of register that stores intermediate arithmetic results. The type of supported instructions are `load` and `store`, which are for memory access, and arithmetic operations. All instructions in an accumulator architecture take exactly one operand, which are memory addresses. 
+
+![Accumulator Architecture](/images/arch/acc_arch.svg)
 
 Below is a set of sample instructions demonstrating how to add two values. The first value is loaded from memory via address `A`, then the `add` instruction is used to add the value in memory address `B` to the accumulator. The result is effectively `A + B`. This is then stored to memory address `C`, wherefore the value in the accumulator is reset back to 0.
 
@@ -56,9 +56,9 @@ store C
 
 ### Register-Memory Architecture
 
-![Register-Memory Architecture](/images/arch/reg-mem_arch.svg)
-
 A register-memory architecture is one of two types of a register architecture. It's defining characteristic is that all instructions support memory access.
+
+![Register-Memory Architecture](/images/arch/reg-mem_arch.svg)
 
 The basic instruction support are `load` and `store` for memory access, and arithmetic operations. The former two take two operands, but the latter set of instructions take three operands, broken down as follows:
 
@@ -80,9 +80,9 @@ store R3, C
 
 ### Register-Register (Load Store) Architecture
 
-![Register-Register Architecture](/images/arch/reg-reg_arch.svg)
-
 A register-register (also known as a load-store) architecture is the second type of a register architecture. It's defining characteristic is that memory access is restricted solely to load and store instructions.
+
+![Register-Register Architecture](/images/arch/reg-reg_arch.svg)
 
 As with a register-memory architecture, it also supports arithmetic operations, which require three operands:
 
