@@ -5,7 +5,7 @@ date = "2023-11-27"
 description = "What the hell is an ISA, anyways?"
 thumbnail = "/images/arch/alu.svg"
 featureImage = "/images/arch/isapt1_banner.png"
-series = ["Computer Architecture"]
+series = "Computer Architecture"
 +++
 
 Let's start by asking the following questions: what the hell is an **instruction set architecture** (ISA), and why does it matter? For starters, the ISA is the interface between hardware and software. This is of particular importance because it determines what type of computer will be built and how it will perform. In other words, the ISA _determines_ the set of instructions a particular processor can execute. By extension, this also includes the study of different instruction formats, types of addressing mode, and the assembly language support.

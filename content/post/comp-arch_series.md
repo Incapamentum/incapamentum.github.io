@@ -5,7 +5,7 @@ date = "2023-11-06"
 description = "Kick-off post regarding a post series focusing on computer architecture."
 thumbnail = "/images/arch/vonNeumann-arch.png"
 featureImage = "/images/arch/comparch-ai.png"
-series = ["Computer Architecture"]
+series = "Computer Architecture"
 +++
 
 Ever since my last post, I've been struggling with ideas on what to write about. All things considered, my options are somewhat limitless due to the nature of technology. So in the end, there shouldn't be _that_ much of an excuse to pick a topic and write about, right?
