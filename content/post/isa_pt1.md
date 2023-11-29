@@ -14,13 +14,18 @@ The ISA defines many things, including but not limited to program state, semanti
 
 ## Defining Some Key Terminology
 
-Define the following:
+Before we begin our discussion regarding ISAs, some key terminology will have to be defined:
 
-- ALU
-- Accumulator
-- Stack(?)
-- Memory
-- Registers
+- **Memory**
+    - Within the context of not only computer architecture, but computing in general, _memory_ is a device that stores information such as data or programs that are available for use by a computer. These can take on the form of volatile memory, such as SRAM or DRAM, or non-volatile memory, such as hard disk drives or floppy disks.
+- **Registers**
+    - _Registers_ are a form of memory storage that are quickly accessible to a processor. Their overall functionality is often defined by the ISA.
+- **ALU**
+    - The _arithmetic logic unit_ (ALU) is a combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers.
+- **Stack**
+    - A _stack_ is a collection of elements that support two main operations: _push_ (adds an element to the collection) and _pop_ (removes the element at the top). Due to these restrictions in operations, a stack can be described as a **last in, first out** (LIFO) structure.
+- **Accumulator**
+    - An _accumulator_ is a special register which stores intermediate results computed from an ALU.
 
 ## Classification of ISAs
 
@@ -47,7 +52,7 @@ pop C
 
 ### Accumulator Architecture
 
-An accumulator is what it sounds like: it is a special type of register that stores intermediate arithmetic results. The type of supported instructions are `load` and `store`, which are for memory access, and arithmetic operations. All instructions in an accumulator architecture take exactly one operand, which are memory addresses. 
+This type of architecture makes use of an accumulator. The type of supported instructions are `load` and `store`, which are for memory access, and arithmetic operations. All instructions in an accumulator architecture take exactly one operand, which are memory addresses. 
 
 ![Accumulator Architecture](/images/arch/acc_arch.svg)
 
@@ -84,7 +89,7 @@ add R3, R1, B
 store R3, C
 ```
 
-### Register-Register (Load Store) Architecture
+### Register-Register (Load-Store) Architecture
 
 A register-register (also known as a load-store) architecture is the second type of a register architecture. It's defining characteristic is that memory access is restricted solely to load and store instructions.
 
@@ -108,3 +113,35 @@ load R2, B
 add R3, R1, R2
 store R3, C
 ```
+
+## Why Study the ISA?
+
+It's important to be able to understand basic design principles for ISAs for the primary reason that it defines a hardware-software interface for an entire generation of processors. In other words: if a bad design choice is made in one generation, you will be stuck with its consequences due to maintaining backwards compatibility.
+
+In fact, the design choices can have drastic effects towards the memory cost of the machine, the complexity of the hardware, and any possible compiler and programming language issues. These are discussed within the scope of _program state_, _instruction semantics_, and _instruction formatting_.
+
+### Program State
+
+In computing, a system is described as _stateful_ if it is designed to remember preceding events or user interactions. If a computer program is unable to remember preceding events, say an arithmetic operation, then the work done is useless. A big question is thus: how is program state managed?
+
+For a processor, state is managed via its internal storage. Three types have already been discussed: a stack, an accumulator, or a set of registers. Each one comes with their pros and cons. For example, stacks and accumulators are good if memory is expensive as these types of ISAs allow for a compact instruction format. On the other hand, registers are faster than memory: this allows for fast reuse of values and flexible scheduling of instructions. This latter benefit is exploited for _instruction-level parallelism_, which will be discussed in a much later post, but keep that in mind for now.
+
+In the context of a register architecture, the ISA defines the number and types of registers available for use, while also implementing any built-in mechanisms to manage errors, typically through exception handling.
+
+### Instruction Semantics
+
+In general, semantics is the study of reference, meaning, or truth. Within the context of ISAs, and by extension computing, it deals with the meaning and effects of instructions on the _state_ of the computer system. These range from simple arithmetic and logical instructions to data transfer and control flow instructions. Of course, these are just a small possible subset of all possible categories that instructions can fall within.
+
+When it comes to design choices, instructions can have a high or low semantic meaning, which is analogous to the complexity of the instruction. For example, a `load` instruction in a register-register ISA has a low semantic meaning, as it strictly loads a value from memory to a register. However, in a register-memory ISA, the `load` instruction has a higher semantic meaning as the second operand can either be a register or a memory address.
+
+An overall good rule of thumb to keep in mind as we move forward is that one often gains more by risking more. That is to say, by increasing the semantic meaning of a set of instructions (in other words, make them more complex), we can allow them to do more work at once.
+
+### Instruction Formatting
+
+The previous two sections that were discussed will ultimately determine the way how instructions are formatted. Formatting, in this case, concerns itself with three major choices: syntax (i.e. bit encoding), width of the operation and operands (if applicable), and whether the instruction will be of a fixed- or variable-width.
+
+As an example, consider a 32-bit machine. At most, an instruction will have to be 32-bit long. In the case of the ISA allowing variable-width instructions, there could be entire sets that will be within 8-, 16-, and 32-bit wide. These different widths will ultimately impact the width of the type of instruction (i.e. operation code, or _opcode_ for short) and its operands, if applicable. These questions thus leads towards the case of instruction syntax: how will they be encoded?
+
+Once an encoding has been decided, this also leads towards its decoding. Instructions with a higher semantic meaning will have a more complex encode/decode scheme as opposed to those with a lower semantic meaning.
+
+## Memory Alignment
