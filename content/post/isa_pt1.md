@@ -144,4 +144,8 @@ As an example, consider a 32-bit machine. At most, an instruction will have to b
 
 Once an encoding has been decided, this also leads towards its decoding. Instructions with a higher semantic meaning will have a more complex encode/decode scheme as opposed to those with a lower semantic meaning.
 
-## Memory Alignment
+## What's Next?
+
+A lot has definitely been covered so far, and it is perhaps a good stopping point to allow for digestion.
+
+The next part will concern itself with memory addressing.
