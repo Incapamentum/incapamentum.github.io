@@ -1,7 +1,7 @@
 +++
 author = "Gustavo Diaz Galeas"
 title = "Instruction Set Architecture: Part 1"
-date = "2023-11-27"
+date = "2023-11-29"
 description = "What the hell is an ISA, anyways?"
 thumbnail = "/images/arch/alu.svg"
 featureImage = "/images/arch/isapt1_banner.png"
