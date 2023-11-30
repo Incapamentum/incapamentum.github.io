@@ -36,7 +36,7 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _Empire of Grass_ by Tad Wiliams
 - _Into the Narrowdark_ by Tad Williams
 - _The Navigator's Children_ by Tad Williams (unreleased, expected 2024)
-- _Murtagh_ by Christopher Paolini (unreleased, expected Nov 7th, 2023)
+- _Murtagh_ by Christopher Paolini
 - _The Hobbit_ by J.R.R. Tolkien
 - _The Things They Carried_ by Tim O'Brien
 - _Sapiens: A Brief History of Humankind_ by Yuval Noah Harari
