@@ -8,7 +8,7 @@ featureImage = "/images/arch/isapt1_banner.png"
 series = "Computer Architecture"
 +++
 
-Let's start by asking the following questions: what the hell is an **instruction set architecture** (ISA), and why does it matter? For starters, the ISA is the interface between hardware and software. This is of particular importance because it determines what type of computer will be built and how it will perform. In other words, the ISA _determines_ the set of instructions a particular processor can execute. By extension, this also includes the study of different instruction formats, types of addressing mode, and the assembly language support.
+Let's start by asking the following questions: what the hell is an **instruction set architecture** (ISA), and why does it matter? For starters, the ISA is the interface between hardware and software. This is of particular importance because it determines what type of computer will be built and how it will perform. In other words, the ISA _determines_ the set of instructions a particular processor can execute. By extension, this also includes the study of different instruction formats, types of addressing modes, and the assembly language support.
 
 The ISA defines many things, including but not limited to program state, semantics, and formatting. These will be covered later, but for now, let's look at _how_ ISAs are typically classified as.
 
@@ -23,7 +23,7 @@ Before we begin our discussion regarding ISAs, some key terminology will have to
 - **ALU**
     - The _arithmetic logic unit_ (ALU) is a combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers.
 - **Stack**
-    - A _stack_ is a collection of elements that support two main operations: _push_ (adds an element to the collection) and _pop_ (removes the element at the top). Due to these restrictions in operations, a stack can be described as a **last in, first out** (LIFO) structure.
+    - A _stack_ is a collection of elements that support two main operations: _push_ (adds an element to the collection) and _pop_ (removes the element at the top). Due to these, a stack can be described as a **last in, first out** (LIFO) structure.
 - **Accumulator**
     - An _accumulator_ is a special register which stores intermediate results computed from an ALU.
 
@@ -67,7 +67,7 @@ store C
 
 ### Register-Memory Architecture
 
-A register-memory architecture is one of two types of a register architecture. It's defining characteristic is that all instructions support memory access.
+A register-memory architecture is one of two types of a register architecture. It's defining characteristic is that memory access is supported by all instructions.
 
 ![Register-Memory Architecture](/images/arch/reg-mem_arch.svg)
 
