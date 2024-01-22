@@ -12,7 +12,7 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 
 ## Books I am Currently Reading
 
-- _The Heart of What Was Lost_ by Tad Williams
+- _The Witchwood Crown_ by Tad Williams
 
 ## Books I've Read
 
@@ -29,10 +29,10 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _The Alchemist_ by Paolo Coelho
 - _Brothers of the Wind_ by Tad Williams
 - _Tomorrow, and Tomorrow, and Tomorrow_ by Gabrielle Zevin
+- _The Heart of What Was Lost_ by Tad Williams
 
 ## A Non-Exhaustive Book Backlog in No Particular Order
 
-- _The Witchwood Crown_ by Tad Williams
 - _Empire of Grass_ by Tad Wiliams
 - _Into the Narrowdark_ by Tad Williams
 - _The Navigator's Children_ by Tad Williams (unreleased, expected 2024)
