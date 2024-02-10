@@ -136,7 +136,7 @@ showRelatedInSidebar = true
 # website author
 [author]
 name = "Gustavo Diaz Galeas"
-# photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
+# photo = "images/gustavo_headshot.jpg" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.
