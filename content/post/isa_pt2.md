@@ -8,21 +8,16 @@ featureImage = ""
 series = "Computer Architecture"
 +++
 
-In the previous post, which served as an introduction to instruction set architectures (ISA), some basic terminology was defined which helped frame a discussion regarding different characterizations of architectures. What set each type of architecture apart was namely in the type of _internal storage_ it makes use.
+In the previous post, which served as an introduction to instruction set architectures (ISA), some basic terminology was defined which helped frame a discussion regarding different characterizations of architectures. What set each type of architecture apart was namely in the type of _internal storage_ it uses.
 
-Now, let's take this up one level of abstraction. Internal storage is simply one form of memory. Recall that, in the context of computing in general, this is defined as being a device that stores information. One key question, however, is how is this information stored? More importantly, how does ISAs fit into this?
-
-
-Often, the key difference between each major characterization is
-
-some basic terminology was defined along with discussing key characteristics that set them apart, namely in the type of internal storage it uses. Thus, this brings along the main point of discussion: memory. Regardless of the choice of architecture, be it stack or register-register, one thing that the ISA _must_ define is how memory addresses are interpreted, and how they are specified.
+Now, let's take this up one level of abstraction. Internal storage is simply one form of memory. Recall that, in the context of computing, this is defined as being a device that stores information. Thus, this brings us to the following question: how is this information stored? More importantly, how does this tie into the overall discussion on ISAs?
 
 ## Defining Some Key Terminology
 
-Before continuing, let's cover some important terminology that will be useful in continuing a discussion on memory:
+Before continuing, let's cover some important terminology that will be useful moving forward:
 
 - **Bits, Bytes, and Beyond**
-  - Where computer memory is concerned, it's often in terms of _bytes_. A byte is defined as being composed of eight _bits_, which is the most basic unit of information. Building from that, we can then define a _half word_ to be 16 bits, and finally a _word_ to be 32 bits. This convention has been the de-facto standard since the introduction of 32-bit machines, but prior to that, a word _has_ been defined to be 16 bits. Modern computers are now 64-bit, but instead of redefining what a word is, a _double word_ was defined that is 64 bits.
+  - Where computer memory is concerned, it's often in terms of _bytes_. A byte is defined as being composed of eight _bits_, which is the most basic unit of information. Building from that, we can then define a _half word_ to be 16 bits, and finally a _word_ to be 32 bits. This convention has been the de-facto standard since the introduction of 32-bit machines, but prior to that, a word _has_ been defined to be 16 bits. Modern computers are now 64-bit, but instead of redefining what a word is, the term of _double word_ is used to denote that it is 64 bits in length.
 
 - **Alignment**
   - The way how data in memory is arranged at address boundaries matching the size of the data is referred to as _alignment_. As the byte is the smallest unit of memory access, memory addresses are defined to be _byte aligned_. That is to say, each memory address specifies a different byte. Memory alignment is important as it can impact performance. For example: a 32-bit processor will perform memory accesses on a _per word_ basis. If a piece of data is misaligned, then this will take multiple memory accesses.
@@ -78,3 +73,9 @@ Now, let's consider if the data was aligned:
 ```
 
 Here, `P` serves as a padding byte to ensure that `b` is aligned at a word boundary. Thus, when the processor accesses `b`, it will do so in one go. Additionally, there won't be any need whatsoever to combine any bytes to obtain the value stored in `b`.
+
+## Questions Answered
+
+Recall that, in the intro of the post, I had posed two questions. The first asked how information is stored in memory. The answer to this question came from defining what a _byte_ is, and extending it both below and above it.
+
+The second question concerned itself with how does this all tie in to ISAs? This was answered through two topics: endianness and alignment. In short, an ISA _must_ define how memory is addressed (through alignment) and how to interpret them (through endianness).
