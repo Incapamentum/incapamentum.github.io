@@ -1,7 +1,7 @@
 +++
 author = "Gustavo Diaz Galeas"
 title = "Instruction Set Architecture: Part 2 - Memory Addressing"
-date = "2024-02-19"
+date = "2024-02-23"
 description = "All your memory belong to us."
 thumbnail = "/images/arch/mem-address.svg"
 featureImage = "/images/arch/isapt2_banner.png"
