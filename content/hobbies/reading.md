@@ -13,23 +13,40 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 ## Books I am Currently Reading
 
 - _The Witchwood Crown_ by Tad Williams
+- _Be Water, My Friend: The Teachings of Bruce Lee_ by Shannon Lee
 
 ## Books I've Read
+
+### Unknown Years (Since I Can't Remember)
 
 - _Eragon_ by Christopher Paolini
 - _Eldest_ by Christopher Paolini
 - _Brisingr_ by Christopher Paolini
 - _Inheritance_ by Christopher Paolini
+- _The Night Ocean_ by Paul La Farge
+
+### 2014
+
+- _East of Eden_ by John Steinbeck
+- _Alias Grace_ by Margaret Atwood
+
+### 2020
+
 - _The Dragonbone Chair_ by Tad Williams
 - _Stone of Farewell_ by Tad Williams
 - _To Green Angel Tower_ by Tad Williams
-- _East of Eden_ by John Steinbeck
-- _The Night Ocean_ by Paul La Farge
-- _Alias Grace_ by Margaret Atwood
+
+### 2023
+
 - _The Alchemist_ by Paolo Coelho
 - _Brothers of the Wind_ by Tad Williams
-- _Tomorrow, and Tomorrow, and Tomorrow_ by Gabrielle Zevin
 - _The Heart of What Was Lost_ by Tad Williams
+- _Tomorrow, and Tomorrow, and Tomorrow_ by Gabrielle Zevin
+
+### 2024
+
+- _The Idiot_ by Elif Batuman
+- _The Cat Who Saved Books_ by Sosuke Natsukawa
 
 ## A Non-Exhaustive Book Backlog in No Particular Order
 
@@ -42,4 +59,3 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _Sapiens: A Brief History of Humankind_ by Yuval Noah Harari
 - _Homo Deus: A Brief History of Tomorrow_ by Yuval Noah Harari
 - _La Guerra del Pacifico_ by Rafael Mellafe Mauricio Pelayo
-- _Be Water, My Friend: The Teachings of Bruce Lee_ by Shannon Lee
