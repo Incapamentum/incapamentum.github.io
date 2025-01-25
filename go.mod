@@ -2,4 +2,4 @@ module goosebytes-dev
 
 go 1.20
 
-require github.com/chipzoller/hugo-clarity v0.0.0-20230412150923-aaf6da813c63 // indirect
+require github.com/chipzoller/hugo-clarity v0.0.0-20250125011752-821d8fe4cf19 // indirect
