@@ -12,7 +12,7 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 
 ## Books I am Currently Reading
 
-- _Empire of Grass_ by Tad Wiliams
+- _Into the Narrowdark_ by Tad Williams
 - _Be Water, My Friend: The Teachings of Bruce Lee_ by Shannon Lee
 
 ## Books I've Read
@@ -52,10 +52,10 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 
 - _Babel, or the Necessity of Violence_ by R.F. Kuang
 - _The Witchwood Crown_ by Tad Williams
+- _Empire of Grass_ by Tad Wiliams
 
 ## A Non-Exhaustive Book Backlog in No Particular Order
 
-- _Into the Narrowdark_ by Tad Williams
 - _The Navigator's Children_ by Tad Williams
 - _Murtagh_ by Christopher Paolini
 - _The Hobbit_ by J.R.R. Tolkien
