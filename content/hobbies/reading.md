@@ -12,7 +12,7 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 
 ## Books I am Currently Reading
 
-- _Into the Narrowdark_ by Tad Williams
+- _The Navigator's Children_ by Tad Williams
 - _Be Water, My Friend: The Teachings of Bruce Lee_ by Shannon Lee
 
 ## Books I've Read
@@ -23,7 +23,6 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _Eldest_ by Christopher Paolini
 - _Brisingr_ by Christopher Paolini
 - _Inheritance_ by Christopher Paolini
-- _The Night Ocean_ by Paul La Farge
 
 ### 2014
 
@@ -35,6 +34,10 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _The Dragonbone Chair_ by Tad Williams
 - _Stone of Farewell_ by Tad Williams
 - _To Green Angel Tower_ by Tad Williams
+
+### 2022
+
+- _The Night Ocean_ by Paul La Farge
 
 ### 2023
 
@@ -53,10 +56,10 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _Babel, or the Necessity of Violence_ by R.F. Kuang
 - _The Witchwood Crown_ by Tad Williams
 - _Empire of Grass_ by Tad Wiliams
+- _Into the Narrowdark_ by Tad Williams
 
 ## A Non-Exhaustive Book Backlog in No Particular Order
 
-- _The Navigator's Children_ by Tad Williams
 - _Murtagh_ by Christopher Paolini
 - _The Hobbit_ by J.R.R. Tolkien
 - _The Things They Carried_ by Tim O'Brien
