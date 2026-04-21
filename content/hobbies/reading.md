@@ -13,6 +13,7 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 ## Books I am Currently Reading
 
 - _Be Water, My Friend: The Teachings of Bruce Lee_ by Shannon Lee
+- _Naranjas Verdes_ by Shin Fujiyama
 
 ## Books I've Read
 
@@ -58,11 +59,15 @@ As such, this will be a living reading list: I'll keep adding to it and possibly
 - _Into the Narrowdark_ by Tad Williams
 - _The Navigator's Children_ by Tad Williams
 
+### 2026
+
+- _Lore_ by Alexandra Brackern
+- _Sapiens: A Brief History of Humankind_ by Yuval Noah Harari
+
 ## A Non-Exhaustive Book Backlog in No Particular Order
 
 - _Murtagh_ by Christopher Paolini
 - _The Hobbit_ by J.R.R. Tolkien
 - _The Things They Carried_ by Tim O'Brien
-- _Sapiens: A Brief History of Humankind_ by Yuval Noah Harari
 - _Homo Deus: A Brief History of Tomorrow_ by Yuval Noah Harari
 - _La Guerra del Pacifico_ by Rafael Mellafe Mauricio Pelayo
